@@ -1,9 +1,9 @@
 #  Create a dictionary (phonebook) with numbers as keys and names as values
 phone = {
-    "01277640399": "abdo",
-    "01277640370": "bata",
-    "01288762160": "sayed",
-    "01210914321": "marwa"
+    "01275321645": "abdo",
+    "01275321598": "ayman",
+    "01245312794": "sayed",
+    "01254697234": "nour"
 }
 
 #  Function to check if the number is valid (must be 11 digits and only numbers)
